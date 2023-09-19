@@ -16,7 +16,7 @@ Keycaps are printed as following:
   2. Middle printed on it's back.
   3. Stem printed on it's wide flat side and glued into place.
 
-Refer to the fusion 360 step files for assembly.
+Refer to the step files for assembly.
 Assembly order:
   1. PCB
   2. Plate to bottom case
