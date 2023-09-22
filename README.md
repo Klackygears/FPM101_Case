@@ -9,7 +9,7 @@ Use the dxf file to have a 3mm acrylic plate cut or use the plate stl file to pr
 The bearings for the trackball are 2.5mm Ceramic Bearing Balls: https://www.amazon.com/gp/product/B081SPZ7KP/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
 There are 3d printed holders that the bearings snap into and glue into the ball housing.
 
-All components other than the following should be printed right side up.
+All components other than the following should be printed right side up. No Support should be needed for these parts. There are small sacrificial layers in some of the screw holes for the bottom middle part so that they do not fall appart. These can be punctured and cleaned up easily. 
 Top middle part should be printed upside down. Bearing holders should be printed flat on the flat edge.
 Keycaps are printed as following:
   1. Left and right printed with inside flat edge down.
